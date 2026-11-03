@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "groupModeOnly": false
+  },
+  "users": {
+    "1478839005": {
+      "role": "developer",
+      "tokenAdded": false
+    },
+    "8631424418": {
+      "role": "developer",
+      "tokenAdded": false
+    }
+  },
+  "roles": {
+    "full up": 1,
+    "reseller": 2,
+    "partner": 3,
+    "admin": 4,
+    "moderator": 5,
+    "owner": 6,
+    "high owner": 7,
+    "tangan kanan": 8,
+    "developer": 9
+  },
+  "links": {}
+}
