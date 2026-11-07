@@ -1,7 +1,24 @@
 {
   "users": [
-    { "username": "sin", "password": "sin21", "role": "admin" },
-    { "username": "mod1", "password": "mod1pass", "role": "moderator" },
-    { "username": "reseller1", "password": "res123", "role": "reseller" }
+    {
+      "username": "sin",
+      "password": "sin21",
+      "role": "admin"
+    },
+    {
+      "username": "mod1",
+      "password": "mod1pass",
+      "role": "moderator"
+    },
+    {
+      "username": "reseller1",
+      "password": "res123",
+      "role": "reseller"
+    },
+    {
+      "username": "izi",
+      "password": "izi11",
+      "role": "admin"
+    }
   ]
 }
